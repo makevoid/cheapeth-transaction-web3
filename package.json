@@ -1,0 +1,9 @@
+{
+  "name": "cheapeth-transaction-web3",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ethereum-keychain": "git+https://github.com/makevoid/ethereum-keychain.git"
+  }
+}
